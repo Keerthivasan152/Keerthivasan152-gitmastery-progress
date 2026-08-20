@@ -61,5 +61,14 @@
     "completed_at": 1786849840.437106,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787193651.334947,
+    "completed_at": 1787193653.447018,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
   }
 ]
